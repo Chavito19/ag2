@@ -59,7 +59,7 @@ html{
     width: 3em;
     height: 3em; 
    /* fill: var(--color-header);*/
-    stroke: #ffffff;
+    stroke: black;
 }
 .numero-p{
     font-size: 30px;
