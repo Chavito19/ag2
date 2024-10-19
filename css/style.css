@@ -59,12 +59,12 @@ html{
     width: 3em;
     height: 3em; 
    /* fill: var(--color-header);*/
-    stroke: black;
+    stroke: #ffffff;
 }
 .numero-p{
     font-size: 30px;
     font-weight: bold;
-    color: #ffffff; 
+    color: black; 
     padding: 10px 0px;
 }
 .toggle_btn{   
